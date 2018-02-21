@@ -2,6 +2,8 @@
 CS:APP Shell Lab
 ################
 
+My Intro to Computer Systems class project where I had to implement my own shell terminal with basic functions.
+
 Files:
 
 Makefile	# Compiles your shell program and runs the tests
